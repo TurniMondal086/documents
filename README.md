@@ -1,1 +1,86 @@
 # documents
+<html>
+<head>
+ <title>About Me</title>
+</head>
+<body background="img/03.jpg">
+<table border="0" width="100%" height="600px">
+<!---ROW -1---->
+<tr>
+<th> 
+<h1>
+<font size="4"color="Blue">RCC INSTITUTE OF INFORMATION TECHNOLOGY,KOLKATA</font>
+</h1>
+<h2>B.Tech(ECE)</h2>
+<h3>2020-24</h3>
+</th>
+<th>
+<h1>
+<font size="4"color="Blue">BETHUNE COLLEGIATE SCHOOL,KOLKATA</font>
+</h1>
+<h2>12th(WBCHSE)</h2>
+<h3>2019</h3>
+</th>
+<th>
+<h1>
+<font size="4"color="Blue">PURBA BARASAT ADARSHA BIDYAPEETH,BARASAT</font>
+</h1>
+<h2>10th(WBSE)</h2>
+<h3>2017</h3>
+</th>
+</tr>
+<!---ROW -2---->
+<tr>
+<th colspan="3">
+<h1>TURNI MONDAL</h1>
+<h2>
+<font size="2" color="green">Problem Solver , Quick Learner,Critical Thicker , Knowledge Seeker</font>
+</h2> 
+</th>
+
+</tr>
+<!---ROW -3---->
+<tr>
+<th>
+<h1>Skills</h1>
+<h2> 
+<font size = "3" color = "blue">JAVA </font>
+</h2>
+<h3> 
+<font size = "3"color = "blue">Python</font>
+</h3>
+<h4> 
+<font size = "3"color = "blue">C </font> 
+</h4>
+
+</th>
+<th>
+<h1>Achivements</h1>
+<h2> 
+<font size = "3" color = "blue">5 star (Gold Badge)in Hackerrank Problem Solving 
+Badge</font>
+</h2>
+<h3> 
+<font size = "3" color = "blue">C for everyone :Programming Fundamentals An online 
+course authorized by University of california</font>
+</h3>
+<h4> 
+<font size = "3" color = "blue">Getting Started with Python An online course authorized by University of Michigan</font>
+</h4>
+</th>
+<th>
+<h1>Interests</h1>
+<h2>
+<font size = "3" color = "blue">Competitive Coding and Problem Solving</font>
+</h2>
+<h3>
+<font size = "3" color = "blue">Drawing</font>
+</h3>
+<h4>
+<font size = "3" color = "blue">Making Craft</font>
+</h4>
+</th>
+</tr>
+</table>
+</body>
+</html>
